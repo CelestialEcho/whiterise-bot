@@ -1,5 +1,5 @@
 clear
-echo Установка зависимостей
+echo Installing Dependencies...
 pip install -r requirements.txt
 clear
-echo Завершено!
+echo Done!
