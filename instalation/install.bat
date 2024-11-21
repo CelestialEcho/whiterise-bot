@@ -1,5 +1,5 @@
 cls
-echo Установка зависимостей
+echo Installing dependencies...
 pip install -r requirements.txt
 cls
-echo Завершенно!
+echo Done!
