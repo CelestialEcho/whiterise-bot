@@ -2,7 +2,7 @@
 бот для помощи ресурсу
 
 ## Как это выглядит
-[![Видео](https://img.shields.io/badge/Смотреть%20видео-blue)](examples/vid.mp4)
+[![vid](https://img.youtube.com/vi/JGNN-OQ2_eo/0.jpg)](https://www.youtube.com/watch?v=JGNN-OQ2_eo)
 
 ## установка + запуск
 - создайте __токен__ для дискорд-бота [это можно сделать тут](https://discord.com/developers/applications)
